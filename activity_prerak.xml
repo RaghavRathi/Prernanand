@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/prernand"
+    tools:context="com.example.dell.prernanand3.Prerak">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="250dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/prernand_1"
+        android:id="@+id/et_prerak"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="HAPPY FIRST WEDDING ANNIVERSARY TO THE MOST
+                        LOVING,CARING,BEHEN AND JIJU.YOU
+ARE THE WORLD'S BEST COUPLE I HAVE EVER SEEN
+                     IN MY LIFE AND I WISH THAT YOUR LIFE
+FILLED WITH ALL THE HAPPINESS AND JOY AND
+           YOUR LOVE GROWS WITH EACH PASSING DAYS.
+    MY FAMILY ALWAYS FEELS PROUD THAT WE HAVE THE BEST OF THE LOT!!!!!"
+        android:textColor="#2900cc"
+        android:textSize="16dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GUESS WHO ?????????"
+        android:layout_marginTop="10dp"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:gravity="center"/>
+</LinearLayout>

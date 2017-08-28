@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/prernand"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.dell.prernanand3.Pinki">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="250dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/prernand_2"
+        android:id="@+id/et_pinki"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="HEARTIEST WEDDING ANNIVERSARY WISHES FOR MY LOVELY SISTER AND MY HANDSOME JIJU I WISH
+YOU LOTS OF HAPPINESS.MAY THE LOVE THAT YOU
+SHARE LASTS THROUGH YOUR LIFETIME AS YOU
+MAKE A WONDERFUL AND CUTE PAIR.
+                            LOVE YOU BOTH"
+        android:textColor="#2900cc"
+        android:textSize="16dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GUESS WHO ?????????"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:gravity="center"/>
+</LinearLayout>

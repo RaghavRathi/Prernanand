@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/prernand"
+    tools:context="com.example.dell.prernanand3.Kartik">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/prernand_9"
+        android:id="@+id/et_kartik"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="       Happy Anniversary dii and jiju!! May you get infinite years of life together to celebrate your love, getting stronger and stronger! Nothing in the world is perfect except you two!! Lots of love!!"
+        android:textColor="#2900cc"
+        android:textAllCaps="true"
+        android:textSize="16dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GUESS WHO ?????????"
+        android:layout_marginTop="15dp"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:gravity="center"/>
+
+</LinearLayout>

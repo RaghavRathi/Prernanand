@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@drawable/prernand"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.dell.prernanand3.Raghav">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="250dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/prernand_5"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="  1 saal ho gya comfortable hai meri behen
+aage badh jae 2nd year start krde just
+kidding.i very well know that you are
+always comfortable with the seniormost
+engineer of our group an awesome fun
+loving and a wonderful guy by nature
+respect respect and respect aap to khair
+bestest ho !!!!!!!!"
+        android:textColor="#2900cc"
+        android:textAllCaps="true"
+        android:textSize="16dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GUESS WHO ?????????"
+        android:layout_marginTop="15dp"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:gravity="center"/>
+</LinearLayout>

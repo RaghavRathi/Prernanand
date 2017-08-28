@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/prernand"
+    android:layout_height="match_parent"
+    tools:context="com.example.dell.prernanand3.Yashvardhan">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="250dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/prernand_6"
+        android:id="@+id/et_yash"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="
+        AS you celebrate wonderful year
+         together,Here wishing yo a day
+         as beautiful as your love
+        Great wishes on ur anniversary,
+     My Saadu Bhai and Saali,Hope u are
+     happily married till the world ends!!!
+     Happy 1st weeding Anniversary"
+        android:textColor="#2900cc"
+        android:textAllCaps="true"
+        android:textSize="16dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GUESS WHO ?????????"
+        android:layout_marginTop="15dp"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:gravity="center"/>
+</LinearLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/prernand"
+    tools:context="com.example.dell.prernanand3.Sharad">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="250dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/prernand_7"
+        android:id="@+id/et_sharad"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="many many happy anniversary wishes to
+the bestest couple in town...#prernand .Seriously your
+relationship has all qualities #caring
+#fun#loving#fun#understanding and many more ...
+god bless you always like this and nazar
+naa lage aap dono ki jodi ko ..!!!!!"
+        android:textColor="#2900cc"
+        android:textAllCaps="true"
+        android:textSize="16dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GUESS WHO ?????????"
+        android:layout_marginTop="15dp"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:gravity="center"/>
+</LinearLayout>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/prernand"
+    android:layout_height="match_parent"
+    tools:context="com.example.dell.prernanand3.Shruti">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="250dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/prernand_8"
+        android:id="@+id/et_shruti"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:padding="1dp"
+        android:text="
+        In the world of imperfections, there is always someone just right for you!!
+And yes you both made the right choice!
+Happyy 1 year of your exciting journey, 1 year of love and joy, 1 year of overacting saboo!!
+You guys tied knot a year ago, but it feels like bahut saal ho gaye aap dono ko ek dusre ko jhelte hue!!
+Aap dono hamesha aise hee khush rahoo and dusro ko toh saboo khush rakh hee legaa!!
+#JorSeBoloJaiMataDii!!
+#LoveYouBoth!!"
+        android:textColor="#2900cc"
+        android:textAllCaps="true"
+        android:textSize="14dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GUESS WHO ?????????"
+        android:layout_marginTop="15dp"
+        android:textSize="15dp"
+        android:textColor="#000"
+        android:gravity="center"/>
+</LinearLayout>
